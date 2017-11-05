@@ -1,0 +1,23 @@
+
+Joachims T. Text categorization with support vector machines: Learning with many relevant features[J]. Machine learning: ECML-98, 1998: 137-142.
+
+
+Blei D M, Ng A Y, Jordan M I. Latent dirichlet allocation[J]. Journal of machine Learning research, 2003, 3(Jan): 993-1022.
+
+Yang Y. An evaluation of statistical approaches to text categorization[J]. Information retrieval, 1999, 1(1): 69-90.
+
+张志飞, 苗夺谦, 高灿. 基于 LDA 主题模型的短文本分类方法[J]. 计算机应用, 2013, 33(6): 1587-1590.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
