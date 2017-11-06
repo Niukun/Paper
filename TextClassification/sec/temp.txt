@@ -11,7 +11,14 @@ Yang Y. An evaluation of statistical approaches to text categorization[J]. Infor
 https://max.book118.com/html/2017/0714/122194948.shtm
 http://www.doc88.com/p-1012869577043.html
 
+http://blog.csdn.net/lxg0807/article/details/52960072
 
+
+	Precision	Recall	F-measure
+TFIDF+SVM	0.61	0.623	0.616
+LDA+SVM	0.838	0.811	0.824
+FASTTEXT	0.841	0.872	0.856
+DRTB-DC	0.863	0.861	0.862
 
 
 
